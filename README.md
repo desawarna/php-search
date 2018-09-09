@@ -2,7 +2,7 @@ Aplikasi Searching PHP MySQL
 ====
 Setelah latihan query selanjutnya kita belajar membuat aplikasi searcing sederhana
 
-Pertama pelajari dulu tentang Aplikasi *Query Sederhana Dengan PHP dan MySQL* pada [datapegawaiphp](http://github.com/datapegawaiphp)  
+Pertama pelajari dulu tentang Aplikasi *Query Sederhana Dengan PHP dan MySQL* pada [datapegawaiphp](https://github.com/desawarna/datapegawephp)  
 
 Membuat Folder Project php-seacrh
 ---
@@ -33,7 +33,7 @@ Berikut hasil code ketika di run di browser
 
 Membuat File *search.php* yang Berisi Form Pencarian
 ----
-Script ini digunakan untuk memproses pencarian , terdapat pula script untuk mengkoneksikan dengan database. ingat anda harus mempraktikan tutorial [datapegawaiphp](http://github.com/datapegawaiphp)  
+Script ini digunakan untuk memproses pencarian , terdapat pula script untuk mengkoneksikan dengan database. ingat anda harus mempraktikan tutorial [datapegawaiphp](https://github.com/desawarna/datapegawephp)  
 :smile: berikut script nya 
 
 ```
